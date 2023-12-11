@@ -1,0 +1,38 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 13px red;
+    margin: 20px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: yellow;
+    text-shadow: 10px 10px 10px grey;
+    padding: 10px;
+}
+
+#song_status
+{
+    color: red;
+    background-color: white;
+    width: 20%;
+    font-size: 18px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 15px;
+}
+
+canvas
+{
+    background-color: red;
+    border: 5px dashed black;
+    margin: 20px;
+    padding: 20px;
+}
